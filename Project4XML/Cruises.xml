@@ -1,0 +1,374 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Cruises>
+  <!--  Cruise 1  -->
+  <Cruise FoundedIn="2004">
+    <ParentCompany>
+      Carnival Corporation
+    </ParentCompany>
+    <Name>
+      Costa Cruises
+    </Name>
+    <Reservation>
+      <Phone>
+        1-800-462-6782
+      </Phone>
+      <Url>
+        www.costacruises.com
+      </Url>
+    </Reservation>
+    <Headquarter Zip="33027">
+      <City>
+        Pembroke Pines
+      </City>
+      <State>
+        Florida
+      </State>
+    </Headquarter>
+    <DeparturePorts>
+      Amsterdam, Netherlands
+    </DeparturePorts>
+    <DeparturePorts>
+      San Antonio, Chile
+    </DeparturePorts>
+    <DeparturePorts>
+      Tarragona, Spain
+    </DeparturePorts>
+    <DeparturePorts>
+      Catania, Italy
+    </DeparturePorts>
+  </Cruise>
+  <!--  Cruise 2  -->
+  <Cruise FoundedIn="1972">
+    <ParentCompany>
+      Carnival Corporation
+    </ParentCompany>
+    <Name>
+      Carnival Cruise Line
+    </Name>
+    <Reservation>
+      <Phone>
+        1-800-764-7419
+      </Phone>
+      <Url>
+        www.carnival.com
+      </Url>
+    </Reservation>
+    <Headquarter Zip="33178">
+      <City>
+        Miami
+      </City>
+      <State>
+        Florida
+      </State>
+    </Headquarter>
+    <DeparturePorts>
+      Baltimore, Maryland
+    </DeparturePorts>
+    <DeparturePorts>
+      Galveston, Texas
+    </DeparturePorts>
+    <DeparturePorts>
+      New York, New York
+    </DeparturePorts>
+    <DeparturePorts>
+      Miami, Florida
+    </DeparturePorts>
+  </Cruise>
+  <!--  Cruise 3  -->
+  <Cruise FoundedIn="1968">
+    <ParentCompany>
+      Royal Carribbean Group
+    </ParentCompany>
+    <Name>
+      Royal Carribbean International
+    </Name>
+    <Reservation>
+      <Phone>
+        855-562-7625
+      </Phone>
+      <Url>
+        www.royalcaribbean.com
+      </Url>
+    </Reservation>
+    <Headquarter Zip="33132">
+      <City>
+        Miami
+      </City>
+      <State>
+        Florida
+      </State>
+    </Headquarter>
+    <DeparturePorts>
+      Amsterdam, Netherlands
+    </DeparturePorts>
+    <DeparturePorts>
+      Baltimore, Maryland
+    </DeparturePorts>
+    <DeparturePorts>
+      Boston, Massachusetts
+    </DeparturePorts>
+    <DeparturePorts>
+      Copenhagen, Denmark
+    </DeparturePorts>
+  </Cruise>
+  <!--  Cruise 4  -->
+  <Cruise FoundedIn="1966">
+    <ParentCompany>
+      Norwegian Cruise Line Holdings
+    </ParentCompany>
+    <Name>
+      Norwegian Cruise Line
+    </Name>
+    <Reservation>
+      <Phone>
+        1-866-234-7350
+      </Phone>
+      <Url>
+        www.ncl.com
+      </Url>
+    </Reservation>
+    <Headquarter Zip="33126">
+      <City>
+        Miami
+      </City>
+      <State>
+        Florida
+      </State>
+    </Headquarter>
+    <DeparturePorts>
+      Anchorage, Alaska
+    </DeparturePorts>
+    <DeparturePorts>
+      Honolulu, Hawaii
+    </DeparturePorts>
+    <DeparturePorts>
+      Boston, Massachusetts
+    </DeparturePorts>
+    <DeparturePorts>
+      Los Angeles, California
+    </DeparturePorts>
+  </Cruise>
+  <!--  Cruise 5  -->
+  <Cruise FoundedIn="1966">
+    <ParentCompany>
+      Norwegian Cruise Line Holdings
+    </ParentCompany>
+    <Name>
+      Oceania Cruises
+    </Name>
+    <Reservation>
+      <Phone>
+        855-623-2642
+      </Phone>
+      <Url>
+        www.oceaniacruises.com
+      </Url>
+    </Reservation>
+    <Headquarter Zip="33126">
+      <City>
+        Miami
+      </City>
+      <State>
+        Florida
+      </State>
+    </Headquarter>
+    <DeparturePorts>
+      New York, New York
+    </DeparturePorts>
+    <DeparturePorts>
+      Cape Town, South Africa
+    </DeparturePorts>
+    <DeparturePorts>
+      Paris, France
+    </DeparturePorts>
+    <DeparturePorts>
+      San Francisco, California
+    </DeparturePorts>
+  </Cruise>
+  <!--  Cruise 6  -->
+  <Cruise FoundedIn="1840">
+    <ParentCompany>
+      Carnival Corporation
+    </ParentCompany>
+    <Name>
+      Cunard
+    </Name>
+    <Reservation>
+      <Phone>
+        800-728-6273
+      </Phone>
+      <Url>
+        www.cunard.com/en-us
+      </Url>
+    </Reservation>
+    <Headquarter Zip="91355">
+      <City>
+        Valencia
+      </City>
+      <State>
+        California
+      </State>
+    </Headquarter>
+    <DeparturePorts>
+      New York, New York
+    </DeparturePorts>
+    <DeparturePorts>
+      Fort Lauderdale, Florida
+    </DeparturePorts>
+    <DeparturePorts>
+      Los Angeles, California
+    </DeparturePorts>
+    <DeparturePorts>
+      San Francisco, California
+    </DeparturePorts>
+  </Cruise>
+  <!--  Cruise 7  -->
+  <Cruise FoundedIn="1994">
+    <ParentCompany>
+      Royal Carribean Group
+    </ParentCompany>
+    <Name>
+      Silversea Cruises
+    </Name>
+    <Reservation>
+      <Phone>
+        1-888-978-4070
+      </Phone>
+      <Url>
+        www.silversea.com
+      </Url>
+    </Reservation>
+    <Headquarter Zip="33131">
+      <City>
+        Miami
+      </City>
+      <State>
+        Florida
+      </State>
+    </Headquarter>
+    <DeparturePorts>
+      New York, New York
+    </DeparturePorts>
+    <DeparturePorts>
+      Nome, Alaska
+    </DeparturePorts>
+    <DeparturePorts>
+      Los Angeles, California
+    </DeparturePorts>
+    <DeparturePorts>
+      San Diego, California
+    </DeparturePorts>
+  </Cruise>
+  <!--  Cruise 8  -->
+  <Cruise FoundedIn="1988">
+    <ParentCompany>
+      Royal Carribean Group
+    </ParentCompany>
+    <Name>
+      Celebrity Cruises
+    </Name>
+    <Reservation>
+      <Phone>
+        1-888-751-7804
+      </Phone>
+      <Url>
+        www.celebritycruises.com
+      </Url>
+    </Reservation>
+    <Headquarter Zip="33132">
+      <City>
+        Miami
+      </City>
+      <State>
+        Florida
+      </State>
+    </Headquarter>
+    <DeparturePorts>
+      Astoria, Oregon
+    </DeparturePorts>
+    <DeparturePorts>
+      Seattle, Washington
+    </DeparturePorts>
+    <DeparturePorts>
+      Signapore, Signapore
+    </DeparturePorts>
+    <DeparturePorts>
+      Newport, Rhode Island
+    </DeparturePorts>
+  </Cruise>
+  <!--  Cruise 9  -->
+  <Cruise FoundedIn="1995">
+    <ParentCompany>
+      Disney
+    </ParentCompany>
+    <Name>
+      Disney Cruise Line
+    </Name>
+    <Reservation>
+      <Phone>
+        1-800-951-3532
+      </Phone>
+      <Url>
+        https://disneycruise.disney.go.com/
+      </Url>
+    </Reservation>
+    <Headquarter Zip="34747">
+      <City>
+        Celebration
+      </City>
+      <State>
+        Florida
+      </State>
+    </Headquarter>
+    <DeparturePorts>
+      New Orleans, Lousiana
+    </DeparturePorts>
+    <DeparturePorts>
+      Miami, Florida
+    </DeparturePorts>
+    <DeparturePorts>
+      Melbourne, Australia
+    </DeparturePorts>
+    <DeparturePorts>
+      Copenhagen, Denmark
+    </DeparturePorts>
+  </Cruise>
+  <!--  Cruise 10  -->
+  <Cruise FoundedIn="2007">
+    <ParentCompany>
+      Royal Caribbean Group
+    </ParentCompany>
+    <Name>
+      Azamara
+    </Name>
+    <Reservation>
+      <Phone>
+        1-855-292-6272
+      </Phone>
+      <Url>
+        www.azamara.com/home
+      </Url>
+    </Reservation>
+    <Headquarter Zip="33133">
+      <City>
+        Miami
+      </City>
+      <State>
+        Florida
+      </State>
+    </Headquarter>
+    <DeparturePorts>
+      Tokyo, Japan
+    </DeparturePorts>
+    <DeparturePorts>
+      Oslo, Norway
+    </DeparturePorts>
+    <DeparturePorts>
+      Dublin, Ireland
+    </DeparturePorts>
+    <DeparturePorts>
+      Barcelona, Spain
+    </DeparturePorts>
+  </Cruise>
+  
+</Cruises>

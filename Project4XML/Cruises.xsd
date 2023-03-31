@@ -1,0 +1,38 @@
+﻿<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Cruises">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Cruise" maxOccurs="unbounded" minOccurs="0">
+          <xs:annotation>
+            <xs:documentation>  Cruise 1    Cruise 2    Cruise 3    Cruise 4    Cruise 5    Cruise 6    Cruise 7    Cruise 8    Cruise 9    Cruise 10  </xs:documentation>
+          </xs:annotation>
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="ParentCompany"/>
+              <xs:element type="xs:string" name="Name"/>
+              <xs:element name="Reservation">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="Phone"/>
+                    <xs:element type="xs:string" name="Url"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="Headquarter">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="City"/>
+                    <xs:element type="xs:string" name="State"/>
+                  </xs:sequence>
+                  <xs:attribute type="xs:int" name="Zip" use="optional"/>
+                </xs:complexType>
+              </xs:element>
+              <xs:element type="xs:string" name="DeparturePorts" maxOccurs="unbounded" minOccurs="0"/>
+            </xs:sequence>
+            <xs:attribute type="xs:short" name="FoundedIn" use="optional"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,6 @@
+C:\Users\Redhi\source\repos\Project4XML\XMLVerifyService\bin\XMLVerifyService.dll.config
+C:\Users\Redhi\source\repos\Project4XML\XMLVerifyService\bin\XMLVerifyService.dll
+C:\Users\Redhi\source\repos\Project4XML\XMLVerifyService\bin\XMLVerifyService.pdb
+C:\Users\Redhi\source\repos\Project4XML\XMLVerifyService\obj\Debug\XMLVerifyService.csproj.CoreCompileInputs.cache
+C:\Users\Redhi\source\repos\Project4XML\XMLVerifyService\obj\Debug\XMLVerifyService.dll
+C:\Users\Redhi\source\repos\Project4XML\XMLVerifyService\obj\Debug\XMLVerifyService.pdb

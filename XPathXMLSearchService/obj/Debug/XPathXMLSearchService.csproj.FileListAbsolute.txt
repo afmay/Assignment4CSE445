@@ -1,0 +1,6 @@
+C:\Users\Redhi\source\repos\Project4XML\XPathXMLSearchService\bin\XPathXMLSearchService.dll.config
+C:\Users\Redhi\source\repos\Project4XML\XPathXMLSearchService\bin\XPathXMLSearchService.dll
+C:\Users\Redhi\source\repos\Project4XML\XPathXMLSearchService\bin\XPathXMLSearchService.pdb
+C:\Users\Redhi\source\repos\Project4XML\XPathXMLSearchService\obj\Debug\XPathXMLSearchService.csproj.CoreCompileInputs.cache
+C:\Users\Redhi\source\repos\Project4XML\XPathXMLSearchService\obj\Debug\XPathXMLSearchService.dll
+C:\Users\Redhi\source\repos\Project4XML\XPathXMLSearchService\obj\Debug\XPathXMLSearchService.pdb
